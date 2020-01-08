@@ -1,7 +1,5 @@
 require './lib/huellanutricional'
 
-
-
 RSpec.describe Alimento do
 
     before :all do
