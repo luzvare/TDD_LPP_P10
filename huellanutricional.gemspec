@@ -10,12 +10,12 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Buscamos conseguir el cálculo del impacto ambiental diario de una persona..}
   spec.description   = %q{Disponemos de alimentos, cada uno de ellos tiene unas proteínas, carbohidratos, lípidos y aportan unas emisiones de gases y emplean un terreno para ser creados. Con estos datos buscamos calcular el impacto ambiental que aporta cada uno de ellos a una dieta.}
-  spec.homepage      = "https://github.com/ULL-ESIT-LPP-1920/tdd-Luz-Vare.git"
+  spec.homepage      = "https://github.com/Luz-Vare/TDD_LPP_P10.git"
 
-  spec.metadata["allowed_push_host"] = "https://github.com/ULL-ESIT-LPP-1920/tdd-Luz-Vare.git"
+  spec.metadata["allowed_push_host"] = "https://github.com/Luz-Vare/TDD_LPP_P10.git"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/ULL-ESIT-LPP-1920/tdd-Luz-Vare.git"
+  spec.metadata["source_code_uri"] = "https://github.com/Luz-Vare/TDD_LPP_P10.git"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
